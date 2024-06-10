@@ -49,7 +49,7 @@ impl CustomList {
             },
             ListNode {
                 name: "Setup docker",
-                command: "bash -c \"$(curl -s https://raw.githubusercontent.com/dnakyes/install/linux/docker.sh)\""
+                command: "bash -c \"$(curl -s https://raw.githubusercontent.com/dnakyes/install//main/linux/docker.sh)\""
             },
             // ListNode {
             //     name: "Just ls, nothing special, trust me",
